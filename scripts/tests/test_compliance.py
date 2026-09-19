@@ -77,6 +77,20 @@ class TestSCMUComplianceChecker(unittest.TestCase):
         warning_mus = [i["id"] for i in issues_mus if i["level"] == "WARNING"]
         self.assertIn("SCMU-005", warning_mus)
 
+    def test_photo_and_tone_detection(self):
+        # 测试淘汰废片检测
+        bad_photo = "配图推荐使用 IMG_3879.JPG 展现宏大场面。"
+        issues_photo = check_content(bad_photo)
+        warning_photo = [i["id"] for i in issues_photo if i["level"] == "WARNING"]
+        self.assertIn("PHOTO-001", warning_photo)
+
+        # 测试机械套话人味检测
+        bad_tone = "如果说代码是严谨的逻辑，那么队列训练就是把严谨镌刻进肌肉记忆。"
+        issues_tone = check_content(bad_tone)
+        sugg_tone = [i["id"] for i in issues_tone if i["level"] == "SUGGESTION"]
+        self.assertIn("TONE-001", sugg_tone)
+
 
 if __name__ == "__main__":
     unittest.main()
+

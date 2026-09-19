@@ -5,15 +5,15 @@
 ## 模块一：标题备选矩阵与发布配置
 
 ### 1. 标题备选库（五维矩阵）
-* **【好奇设问型】** 从写代码到踢正步：这群计科学子的硬核军训，究竟藏着多少惊喜
+* **【好奇设问型】** 从指尖键盘到方阵步点：这群计科学子的硬核军训，藏着多少拔节成长的故事
 * **【硬核榜样型】** 迷彩戎装展英姿！中南民大计算机科学学院2026级新生军训高燃时刻
 * **【情感共鸣型】** 风雨无阻，步履铿锵！南湖畔，听2026级计科人的迷彩青春交响
 * **【权威发布型】** 淬火成钢 勇担使命：中南民族大学计算机科学学院（人工智能学院）2026级新生军训圆满落幕
-* **【诗意网感型】** 绿茵为席，迷彩为裳：南湖秋风里，这是独属于计科少年的“代码浪漫”
+* **【诗意网感型】** 绿茵为席，迷彩为裳：南湖秋风里，这是独属于计科少年的青春序曲
 
 ### 2. 发布参数配置
 * **推荐选用标题**：风雨无阻，步履铿锵！南湖畔，听2026级计科人的迷彩青春交响
-* **封面图推荐**：`/Volumes/xbpd的u盘/junxun/IMG_3879.JPG`（南湖操场全景方阵图，绿茵整肃、阵列恢弘）或 `/Volumes/xbpd的u盘/junxun/IMG_3895.JPG`（秋雨中红旗招展、阔步踏水行进的大景）
+* **封面图推荐**：`/Volumes/xbpd的u盘/junxun/IMG_3870.JPG`（南湖操场全景方阵图，绿茵整肃、阵列恢弘）或 `/Volumes/xbpd的u盘/junxun/IMG_3895.JPG`（秋雨中红旗招展、阔步踏水行进的大景）
 * **推文封面摘要（54字以内）**：
   立如松，行如风。中南民大计算机科学学院2026级新生圆满完成军训！以刚毅之魄筑青春基石，扬帆起航！
 * **栏目归属**：【青春民大】×【计科风采】
@@ -31,101 +31,109 @@
     <div style="font-size: 14px; background-color: rgba(255,255,255,0.18); display: inline-block; padding: 2px 12px; border-radius: 20px; letter-spacing: 1px;">2026级新生军训风采纪实</div>
   </div>
 
+  <!-- 封面焦点实景配图 -->
+  <div style="margin: 0 0 24px 0; text-align: center;">
+    <img src="/Volumes/xbpd的u盘/junxun/IMG_3870.JPG" style="width: 100%; max-width: 100%; border-radius: 10px; box-shadow: 0 3px 12px rgba(0,0,0,0.12);" alt="南湖操场全景方阵" />
+    <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
+      📷 [配图] 南湖操场上，2026级迷彩方阵巍然伫立，写下大学第一课的热血开篇
+    </div>
+  </div>
+
   <!-- 引言卡片 -->
   <div style="background-color: #F8F6F4; border-left: 4px solid #B8242A; border-radius: 0 8px 8px 0; padding: 16px 16px 16px 18px; margin: 20px 0 28px 0; font-size: 14.5px; color: #555555; line-height: 1.85;">
     <p style="margin: 0; text-indent: 2em;">
-      晨光熹微，南湖碧波泛起层层涟漪；号角吹响，绿茵场上汇聚青春战阵。对于<strong>计算机科学学院（人工智能学院）2026级新生</strong>而言，这个金秋不仅有键盘敲击的清脆，更有齐步正步的铿锵回响。
+      南湖的风，总是在九月的清晨带着微微的湿润。当清脆的军号声划破拂晓的微光，在<strong>计算机科学学院（人工智能学院）2026级新生</strong>的世界里，这个秋天注定不再只有键盘敲击的清脆回响。
     </p>
     <p style="margin: 8px 0 0 0; text-indent: 2em;">
-      从初入大学的懵懂青涩，到昂首挺胸的整齐划一；从单调重复的队列动作，到硬核实战的战地救护。汗水浸润迷彩，目光淬炼刚毅。让我们一起翻开这卷迷彩记忆，定格属于2026级计科学子的热血蜕变！
+      从初入大学的懵懂青涩，到昂首挺胸的整齐划一；从第一声稍息立正的生涩，到烈日下与草坪白线死磕的严谨。那些被汗水浸湿后贴在后背发硬的作训服、那些在脖颈和手腕上晒出的“迷彩防伪线”，悄然见证着独属于少年们的拔节成长。让我们一起翻开这卷迷彩记忆，定格属于2026级计科学子的热血蜕变！
     </p>
   </div>
 
   <!-- 章节一：淬炼军姿 -->
   <div style="display: flex; align-items: center; margin: 30px 0 16px 0;">
     <div style="background: #B8242A; color: #FFFFFF; font-weight: bold; font-size: 13px; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;">01</div>
-    <div style="font-size: 17px; font-weight: bold; color: #B8242A; letter-spacing: 1px;">淬炼军姿·方寸之间立矩筑魂</div>
+    <div style="font-size: 17px; font-weight: bold; color: #B8242A; letter-spacing: 1px;">军姿如铁·毫厘之间见证少年坚毅</div>
   </div>
 
   <p style="text-indent: 2em; margin-bottom: 14px;">
-    “抬头！挺胸！收腹！微向前倾！”教官洪亮的口令回荡在南湖操场。烈日与微风交替，汗水顺着脸颊滑落，但没有一名同学轻言放弃。
+    “两脚分开六十度，脚跟靠拢，大臂贴紧，中指紧贴裤缝！”承训教官略显沙哑却字字千钧的口令，回荡在南湖操场上空。
   </p>
 
   <p style="text-indent: 2em; margin-bottom: 16px;">
-    如果说代码编写讲究严格的语法与对齐，那么队列训练就是把严谨镌刻进肌肉记忆。脚尖沿草坪白线一字排开，拇指紧扣食指第二节，双眼直视前方——这是计科学子用身姿写就的最规范“系统架构”。
+    平日里习惯了在终端里调代码、找Bug的计科学子，把骨子里那份较真劲儿全用在了跟身姿线条的“毫厘死磕”上。敲惯键盘的十指紧扣裤缝，脚尖沿草坪白线整齐对齐。武汉初秋的骄阳毫不留情，豆大的汗珠顺着睫毛和脸颊滑落，砸在发烫的跑道上瞬间蒸发，但队伍里没有一个人抬手去擦，更没有人动弹分毫。
   </p>
 
   <!-- 实景配图 1 -->
   <div style="margin: 20px 0 10px 0; text-align: center;">
-    <img src="/Volumes/xbpd的u盘/junxun/IMG_3865.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="军姿细节与白线对齐" />
+    <img src="/Volumes/xbpd的u盘/junxun/IMG_3830.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="教官逐排校准军姿" />
     <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 细节见真章：脚尖与草坪标线严丝合缝，指尖紧贴，一丝不苟
+      📷 [配图] 逐行校准、一丝不苟：承训教官穿梭在队列中，细致纠正每一个细微动作
     </div>
   </div>
 
   <!-- 实景配图 2 -->
   <div style="margin: 20px 0 24px 0; text-align: center;">
-    <img src="/Volumes/xbpd的u盘/junxun/IMG_3836.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="教官逐排校准军姿" />
+    <img src="/Volumes/xbpd的u盘/junxun/IMG_3865.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="军姿细节与白线对齐" />
     <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 方阵整肃：教官逐一核对调整队列，铸就坚不可摧的集体意志
+      📷 [配图] 细节见真章：脚尖与草坪标线严丝合缝，指尖紧扣，体现严明纪律
     </div>
   </div>
 
   <!-- 章节二：战地救护 -->
   <div style="display: flex; align-items: center; margin: 35px 0 16px 0;">
     <div style="background: #1F5F8B; color: #FFFFFF; font-weight: bold; font-size: 13px; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;">02</div>
-    <div style="font-size: 17px; font-weight: bold; color: #1F5F8B; letter-spacing: 1px;">实战赋能·硬核战救护佑生命</div>
+    <div style="font-size: 17px; font-weight: bold; color: #1F5F8B; letter-spacing: 1px;">战地赋能·草坪围坐里的温暖人情</div>
   </div>
 
   <p style="text-indent: 2em; margin-bottom: 14px;">
-    除却基础队列训练，实战化卫生与战地自救互救实操演练更是本次军训中的“高燃亮点”。
+    除却基础队列训练，实战化卫生与战地自救互救实操演练更是本次军训中满载温情的一幕。
   </p>
 
   <p style="text-indent: 2em; margin-bottom: 16px;">
-    绿茵坪上，同学们席地围坐，在专业医护教官指导下系统掌握头部三角巾包扎、四肢止血以及伤员转运技巧。从理论认知到上手实操，大家互相协作、反复推敲打结细节。计算机人的缜密逻辑在急救技能的学习中展现得淋漓尽致：争分夺秒，守护战友生命安全！
+    绿茵坪上，大家卸下严整的队列，围坐成一圈圈欢快的同心圆。刚才还在比谁正步踢得高的室友，转眼就被三角巾裹成了呆萌的“病患”。“别动别动，这个平结必须压在眉骨上方两指！”虽然嘴上开着玩笑、互相打趣，手上的动作却比谁都小心翼翼。折叠、包扎、打结、固定——在一次次推敲与配合中，同窗的情谊在指尖升温，互助的担当在心底生根。
   </p>
 
-  <!-- 实景配图 3 -->
+  <!-- 实景配图 3 & 4 组合 -->
+  <div style="margin: 20px 0 10px 0; text-align: center;">
+    <img src="/Volumes/xbpd的u盘/junxun/IMG_3857.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="草坪席地互助急救包扎" />
+    <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
+      📷 [配图] 战救实战：绿茵席地、凝神互助，同学们认真演练三角巾包扎细节
+    </div>
+  </div>
+
   <div style="margin: 20px 0 24px 0; text-align: center;">
     <img src="/Volumes/xbpd的u盘/junxun/IMG_3855.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="战地急救与三角巾头部包扎演练" />
     <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 战救实战：席地互助，同学们认真演练头部三角巾急救包扎
+      📷 [配图] 战友同心：严谨细致的每一个步骤，饱含着并肩同行的温暖默契
     </div>
   </div>
 
   <!-- 章节三：风雨砺剑 -->
   <div style="display: flex; align-items: center; margin: 35px 0 16px 0;">
     <div style="background: #B8242A; color: #FFFFFF; font-weight: bold; font-size: 13px; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;">03</div>
-    <div style="font-size: 17px; font-weight: bold; color: #B8242A; letter-spacing: 1px;">风雨砺剑·红旗指引铿锵行进</div>
+    <div style="font-size: 17px; font-weight: bold; color: #B8242A; letter-spacing: 1px;">风雨砺剑·战旗猎猎踏碎满地水花</div>
   </div>
 
   <p style="text-indent: 2em; margin-bottom: 14px;">
-    天公偶作洗礼，秋雨如期而至。雨水打湿了迷彩作训服，却冲不垮挺拔如松的军人姿态。
+    九月的南湖操场，秋雨总是不期而至。冰凉的雨丝打在发梢，打湿了薄薄的迷彩作训服，却丝毫浇不灭训练场上的滚烫热血。
   </p>
 
   <p style="text-indent: 2em; margin-bottom: 16px;">
-    红色塑胶跑道上水光微闪，红旗猎猎招展。伴随嘹亮口号，方队踏着雨水齐步向前。手臂摆荡如同一人，落地脚步掷地有声。狂风骤雨更显男儿气概与巾帼英姿，这正是新时代青年无惧风浪、勇毅前行的精神缩影！
+    红色塑胶跑道上水光微闪，红旗猎猎招展。伴随嘹亮口号，方队踏着雨水齐步向前。胶底作训鞋砸进水坑，激荡起白色水花，整条排面的脚步声掷地有声，比鼓点还要整齐。风雨之中的前行，不仅磨砺出挺拔的身姿，更展现出少年面对人生风浪时从容无畏的昂扬豪迈！
   </p>
 
-  <!-- 实景配图 4 & 5 组合 -->
-  <div style="margin: 20px 0 10px 0; text-align: center;">
+  <!-- 实景配图 5 -->
+  <div style="margin: 20px 0 24px 0; text-align: center;">
     <img src="/Volumes/xbpd的u盘/junxun/IMG_3895.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="雨后跑道红旗引路踏步前行" />
     <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
       📷 [配图] 风雨洗礼：战旗猎猎，计科学子踏水前进，步履坚定从容
     </div>
   </div>
 
-  <div style="margin: 20px 0 24px 0; text-align: center;">
-    <img src="/Volumes/xbpd的u盘/junxun/IMG_3893.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="铿锵步伐与整齐排面" />
-    <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 意气风发：整齐划一的步幅，印证着刻苦训练的汗水与蜕变
-    </div>
-  </div>
-
   <!-- 章节四：庄严致敬 -->
   <div style="display: flex; align-items: center; margin: 35px 0 16px 0;">
     <div style="background: #1F5F8B; color: #FFFFFF; font-weight: bold; font-size: 13px; width: 26px; height: 26px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 10px; flex-shrink: 0;">04</div>
-    <div style="font-size: 17px; font-weight: bold; color: #1F5F8B; letter-spacing: 1px;">庄严致敬·迷彩青春奔赴新程</div>
+    <div style="font-size: 17px; font-weight: bold; color: #1F5F8B; letter-spacing: 1px;">庄严致敬·迷彩少年奔赴星辰大海</div>
   </div>
 
   <p style="text-indent: 2em; margin-bottom: 14px;">
@@ -133,7 +141,7 @@
   </p>
 
   <p style="text-indent: 2em; margin-bottom: 16px;">
-    来自五湖四海的各族青年学子，像石榴籽一样紧紧抱在一起。大家在训练场上同甘共苦、互相鼓励，不仅收获了铁一般的纪律与强健体魄，更在心底深深筑牢了家国情怀与集体荣誉感。
+    还记得“九一八”清晨在国旗下的静默肃立，还记得拉歌夜七楼乐队电吉他扫弦带来的全场狂欢，还记得各族学子共育“石榴林”的深情约定。来自五湖四海的青年学子，像石榴籽一样紧紧抱在一起，在训练场上同甘共苦、互相鼓励，在心底深深筑牢了家国情怀与集体荣誉感。
   </p>
 
   <!-- 实景配图 6 & 7 组合 -->
@@ -145,17 +153,9 @@
   </div>
 
   <div style="margin: 20px 0 24px 0; text-align: center;">
-    <img src="/Volumes/xbpd的u盘/junxun/IMG_3910.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="男子方队昂首阔步齐步走" />
+    <img src="/Volumes/xbpd的u盘/junxun/IMG_3920.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="男子方队昂首阔步齐步走" />
     <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 昂扬意气：齐步踏出新声，展现民大学子昂扬向上的精神风貌
-    </div>
-  </div>
-
-  <!-- 全景收尾配图 8 -->
-  <div style="margin: 20px 0 24px 0; text-align: center;">
-    <img src="/Volumes/xbpd的u盘/junxun/IMG_3879.JPG" style="width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);" alt="南湖操场军训全景" />
-    <div style="font-size: 12px; color: #888888; margin-top: 6px; text-align: center;">
-      📷 [配图] 壮阔南湖：方阵巍然屹立，迷彩海洋交织成校园最美秋景
+      📷 [配图] 昂扬意气：迈着坚定的步伐，展现民大学子昂扬向上的精神风貌
     </div>
   </div>
 
@@ -165,7 +165,7 @@
       以青春之名，赴强国之约
     </div>
     <p style="font-size: 14px; color: #444444; line-height: 1.85; margin: 0; text-indent: 2em;">
-      军训圆满落幕，但奋斗从未止步。秉承<strong>“笃信好学 自然宽和”</strong>的中南民大校训，计算机科学学院（人工智能学院）2026级新生们将把军训淬炼出的钢铁意志、严谨作风与团队精神，化作探索前沿科学、攻坚核心算法的不竭动力。
+      军训圆满落幕，但奋斗从未止步。秉承<strong>“笃信好学 自然宽和”</strong>的中南民大校训，计算机科学学院（人工智能学院）2026级新生们将把军训淬炼出的坚韧意志、严谨作风与团队精神，化作探索前沿科学、攻坚核心算法的不竭动力。
     </p>
     <p style="font-size: 14px; color: #444444; line-height: 1.85; margin: 10px 0 0 0; text-indent: 2em;">
       在强国强军的时代浪潮中，牢固<strong>铸牢中华民族共同体意识</strong>，用代码赋能未来，以智慧报效祖国！2026级新同学们，大学之旅已经扬帆，愿你们乘风破浪，未来可期！

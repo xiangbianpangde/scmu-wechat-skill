@@ -34,3 +34,5 @@ ENV/
 .vscode/
 *.swp
 *.swo
+.agents/
+.pytest_cache/
