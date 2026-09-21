@@ -266,16 +266,6 @@
   💡 <strong>温馨提示：</strong>请各位同学严格在规定时间内登录教务系统完成选课。
 </div>
 
-<!-- 4.1 正文收束 END 缓冲组件（依体裁按需配置；72.6% 官方推文覆盖率） -->
-<!-- 规范说明：适用于【青春民大】、【风物民大】等叙事特辑、图文漫游，充当进入落款区的视觉刹车符；
-     【民大要闻】、严肃公文通报通常直接衔接落款。
-     实证约束：推荐纯 CSS 极简圆角微胶囊，零外部素材依赖；严禁使用第三方私有外链背景或拟物锯齿贴纸（如 174868 仅占 0.46%）。 -->
-<section data-component="end-marker" style="box-sizing:border-box;margin:28px auto 20px;text-align:center;">
-  <span style="display:inline-block;padding:3px 18px;background:#f2f2f2;border-radius:100px;font-size:12px;font-weight:700;color:#888888;letter-spacing:2px;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
-    END
-  </span>
-</section>
-
 <!-- 5. 融媒体中心官方三审三校实名落款与年份印记 (2026 年 219 篇官方推文实证规范) -->
 <section data-component="proofreading-credits" style="box-sizing:border-box;margin:28px auto 0;text-align:center;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
   <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">中南民族大学</span></p>
