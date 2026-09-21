@@ -197,6 +197,18 @@
   <img src="https://mmbiz.qpic.cn/mmbiz_png/7qLEcpwB7AGbrczKsNFP8XbHAAywmmE4e13iaD5llG9aWh4gTJTHKfePD6CUyRrfaDdqkESwfezMLrWtiazF6w8eb1sTW9TGxA4UOrjv3sKYo/640?wx_fmt=png" alt="SCMU" style="display:inline-block;width:54px;height:auto;margin-bottom:-9px;background:#ffffff;padding:0 8px;" />
 </section>
 
+<!-- 0.2 居中网感导读区 (Lead-in Guide Section) -->
+<section data-component="lead-in-guide" style="box-sizing:border-box;margin:20px auto 28px;padding:0 16px;text-align:center;">
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">如果最近你的朋友圈没有被这群民大er刷屏</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">那你可能错过了一波高光时刻！✨</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">从电子设计到智能汽车</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">从3C大赛到计算机设计……</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">别光顾着点赞，仔细看看</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">他们到底在“偷偷”攒什么毕业必备的</span></p>
+  <p style="text-align:center;line-height:2;margin:0 10px 4px;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;"><strong style="font-weight:700;color:#202020;">硬通货？</strong></span></p>
+  <p style="text-align:center;line-height:2;margin:10px 10px 0;"><span style="font-size:15px;color:#3f3f3f;letter-spacing:2px;">👇</span><span style="font-size:15px;letter-spacing:2px;color:#7f7f7f;">（下滑查看他们的朋友圈）</span></p>
+</section>
+
 <!-- 1. 栏目标签卡片 (民大石榴红) -->
 <div style="display:inline-block; background-color:#B8242A; color:#ffffff; font-size:12px; font-weight:bold; padding:3px 8px; border-radius:4px; margin-bottom:8px;">
   青春民大 · 榜样力量
