@@ -185,15 +185,15 @@
 
 ```html
 <!-- 0. 官方固定开场动图 (Fixed Opening GIF Banner) -->
-<section data-component="brand-header" style="box-sizing:border-box;margin:0;padding:24px 20px 16px;background:#ffffff;text-align:center;">
-  <img src="https://mmbiz.qpic.cn/mmbiz_gif/aOOh9W487MRu4Scq3Cobf5UU2ap0Sm464wMYCrRqmjbkKofEXa1ic1DiaWuicib6N09T3tPkiaphwHebxdXgBicxyWNQ/640?wx_fmt=gif" alt="中南民族大学" style="display:block;width:100%;max-width:640px;height:auto;margin:0 auto;box-sizing:border-box;" />
+<section data-component="brand-header" style="box-sizing:border-box;margin:0 auto;padding:0;background:#ffffff;text-align:center;">
+  <img src="https://mmbiz.qpic.cn/mmbiz_gif/aOOh9W487MRu4Scq3Cobf5UU2ap0Sm464wMYCrRqmjbkKofEXa1ic1DiaWuicib6N09T3tPkiaphwHebxdXgBicxyWNQ/640?wx_fmt=gif" alt="中南民族大学" style="display:block;width:100%;max-width:480px;height:auto;margin:0 auto;box-sizing:border-box;" />
 </section>
 
 <!-- 0.1 居中推送序号与浅绿底线小图标 -->
-<p style="margin:12px 0 20px;text-align:center;color:#3f3f3f;font-size:15px;line-height:2;letter-spacing:2px;">
+<p style="margin:0 auto 16px;text-align:center;color:#3f3f3f;font-size:15px;line-height:2;letter-spacing:2px;">
   这是中南民族大学第<span style="color:#ff0000;font-weight:700;">4030</span>条推送
 </p>
-<section data-component="top-divider" style="box-sizing:border-box;width:60%;height:18px;margin:0 auto 28px;border-bottom:1px solid #b7e26b;text-align:center;">
+<section data-component="top-divider" style="box-sizing:border-box;width:60%;height:18px;margin:0 auto 24px;border-bottom:1px solid #b7e26b;text-align:center;">
   <img src="https://mmbiz.qpic.cn/mmbiz_png/7qLEcpwB7AGbrczKsNFP8XbHAAywmmE4e13iaD5llG9aWh4gTJTHKfePD6CUyRrfaDdqkESwfezMLrWtiazF6w8eb1sTW9TGxA4UOrjv3sKYo/640?wx_fmt=png" alt="SCMU" style="display:inline-block;width:54px;height:auto;margin-bottom:-9px;background:#ffffff;padding:0 8px;" />
 </section>
 
