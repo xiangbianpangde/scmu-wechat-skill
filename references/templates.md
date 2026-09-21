@@ -215,13 +215,22 @@
   -->
 </section>
 
-<!-- 1. 栏目标签卡片 (民大石榴红) -->
-<div style="display:inline-block; background-color:#B8242A; color:#ffffff; font-size:12px; font-weight:bold; padding:3px 8px; border-radius:4px; margin-bottom:8px;">
+<!-- 1. 规范章节子标题（黑色加粗、加框，2026 统一标准） -->
+<section data-component="subheading-box" style="box-sizing:border-box;margin:36px auto 20px;text-align:center;">
+  <section style="display:inline-block;border:1.5px solid #202020;border-radius:4px;padding:6px 20px;background:#ffffff;box-sizing:border-box;text-align:center;">
+    <h2 style="margin:0;color:#202020;font-size:16px;font-weight:700;letter-spacing:2px;line-height:1.6;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
+      01 / 章节子标题内容
+    </h2>
+  </section>
+</section>
+
+<!-- 1.1 辅助栏目微标签 (民大石榴红，按需置于子标题或首图上方) -->
+<div style="display:inline-block; background-color:#B8242A; color:#ffffff; font-size:12px; font-weight:bold; padding:3px 8px; border-radius:4px; margin-bottom:8px; font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
   青春民大 · 榜样力量
 </div>
 
 <!-- 2. 金句引用框 (南湖蓝上边框 + 浅灰底衬) -->
-<div style="background-color:#F8F9FA; border-left:4px solid #1F5F8B; padding:12px 16px; margin:14px 0; border-radius:0 6px 6px 0; font-size:14.5px; color:#2D3142; line-height:1.75;">
+<div style="background-color:#F8F9FA; border-left:4px solid #1F5F8B; padding:12px 16px; margin:14px 0; border-radius:0 6px 6px 0; font-size:14.5px; color:#2D3142; line-height:1.75; font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
   “在南湖畔种下理想，以奋斗绘就青春最亮丽的底色。”
 </div>
 
