@@ -146,6 +146,13 @@ RULES = [
         "message": "检测到未闭合的左双引号“，请检查引号是否成对出现。",
         "suggestion": "补充右双引号”"
     },
+    {
+        "id": "FMT-003",
+        "level": "SUGGESTION",
+        "pattern": r"(?:👇.*?(?:下滑|下拉|滑动)|(?:下滑|下拉|滑动).*?👇|[（\(]\s*(?:下滑|下拉|向下滑动|上下滑动).*?[）\)])",
+        "message": "检测到非必要的“👇下滑”指引。根据2026年官方推文版式统计，下滑指示符非通用格式必须，常规推文导读应自然收束，严禁机械堆砌。",
+        "suggestion": "若后文无内嵌垂直滑动框或特定交互组件，建议删除下滑指引，保持版式干净自然。"
+    },
     # ==========================================
     # 4. PHOTO: 现场配图画质与合规严选 (基于选图规范)
     # ==========================================
@@ -191,6 +198,11 @@ def check_content(content: str) -> List[Dict]:
     # 1. 逐行规则扫描
     for line_idx, line in enumerate(lines, start=1):
         for rule in RULES:
+            if rule["id"] == "FMT-002":
+                # 排除卡片中作为独立装饰符号呈现的单行引号
+                stripped_quote = re.sub(r'<[^>]+>', '', line).strip()
+                if stripped_quote in ('“', '”', '“ ”', '” “'):
+                    continue
             matches = list(re.finditer(rule["pattern"], line))
             for m in matches:
                 issues.append({
