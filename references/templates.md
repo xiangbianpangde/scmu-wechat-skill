@@ -232,12 +232,23 @@
   </section>
 </section>
 
-<!-- 1.1 辅助栏目微标签 (民大石榴红，按需置于子标题或首图上方) -->
+<!-- 1.1 【低频可选/特殊栏目按需】辅助栏目微标签（非标配，常规推文严禁默认堆砌，2026 年覆盖率仅 4.6%） -->
+<!-- 说明：仅在特定品牌专栏或多人物联合展播时低频选用；常规推文首图与各章节直接连接加框子标题或居中文字，保持自然纯净。 -->
 <div style="display:inline-block; background-color:#B8242A; color:#ffffff; font-size:12px; font-weight:bold; padding:3px 8px; border-radius:4px; margin-bottom:8px; font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
   青春民大 · 榜样力量
 </div>
 
-<!-- 2. 金句引用框 (南湖蓝上边框 + 浅灰底衬) -->
+<!-- 2. 金句引用（默认推荐：纯净居中排版；符合 2026 年主流自然流动，纯代码大号实体双引号与卡片外框出现率为 0%） -->
+<section style="box-sizing:border-box;margin:28px 20px 32px;text-align:center;">
+  <p style="margin:0 0 12px;color:#2c2c2c;font-size:16px;line-height:1.85;font-weight:600;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
+    “在南湖畔种下理想，以奋斗绘就青春最亮丽的底色。”
+  </p>
+  <p style="margin:0;color:#888888;font-size:13px;line-height:1.7;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
+    —— 师生青春手记
+  </p>
+</section>
+
+<!-- 【特定公文/会议场景可选】：左侧细边框引述框（公文/发言要点按需使用，常规推文请勿堆砌厚重卡片外框） -->
 <div style="background-color:#F8F9FA; border-left:4px solid #1F5F8B; padding:12px 16px; margin:14px 0; border-radius:0 6px 6px 0; font-size:14.5px; color:#2D3142; line-height:1.75; font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
   “在南湖畔种下理想，以奋斗绘就青春最亮丽的底色。”
 </div>
