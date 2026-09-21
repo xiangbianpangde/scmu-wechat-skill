@@ -215,7 +215,15 @@
   -->
 </section>
 
-<!-- 1. 规范章节子标题（黑色加粗、加框，2026 统一标准） -->
+<!-- 1. 规范章节子标题（加粗、加框，颜色主题化自适应） -->
+<!-- 规范说明：章节子标题统一采用“加粗、加框”微卡片结构，字体为微软雅黑（16px，字间距 2px）。 -->
+<!-- 颜色不局限于黑色，可依据推文主题动态适配（边框与文字同色呼应）：
+     - 经典端庄黑（默认通用）：border: 1.5px solid #202020; color: #202020;
+     - 民大石榴红（节日/党建/荣誉）：border: 1.5px solid #b8242a; color: #b8242a;
+     - 南湖碧波蓝（学术/竞赛/科技）：border: 1.5px solid #1f5f8b; color: #1f5f8b;
+     - 校园墨绿/迷彩绿（军训/物候/生态）：border: 1.5px solid #386641; color: #386641;
+     - 晨曦金/银杏金（金秋/毕业/晚霞）：border: 1.5px solid #d4a359; color: #d4a359;
+-->
 <section data-component="subheading-box" style="box-sizing:border-box;margin:36px auto 20px;text-align:center;">
   <section style="display:inline-block;border:1.5px solid #202020;border-radius:4px;padding:6px 20px;background:#ffffff;box-sizing:border-box;text-align:center;">
     <h2 style="margin:0;color:#202020;font-size:16px;font-weight:700;letter-spacing:2px;line-height:1.6;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
@@ -246,4 +254,18 @@
 <div style="background-color:#FFFDF7; border:1px solid #D4A359; padding:12px 16px; border-radius:8px; margin:14px 0; color:#5A4310; font-size:14px;">
   💡 <strong>温馨提示：</strong>请各位同学严格在规定时间内登录教务系统完成选课。
 </div>
+
+<!-- 5. 融媒体中心官方三审三校落款与年份印记 -->
+<section style="box-sizing:border-box;margin:28px 20px 0;padding:22px 0 12px;border-top:1px solid #eeeeee;color:#7a7a7a;font-size:13px;line-height:1.9;text-align:center;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
+  <p style="margin:0;">文字｜中南民族大学融媒体中心学生记者团</p>
+  <p style="margin:0;">摄影｜党委宣传部融媒体影像工作室</p>
+  <p style="margin:0;">排版｜融媒体中心新媒体排版团队</p>
+  <p style="margin:0;">审核｜党委宣传部融媒体中心</p>
+  <p style="text-align:center;line-height:2;letter-spacing:2px;margin:12px auto 0;"><span style="color:#bfbfbf;font-size:14px;">-scmu 1951-</span></p>
+</section>
+
+<!-- 6. 官方固定结尾动图 (1000×612 铸牢信封微小微 GIF) -->
+<section data-component="brand-footer" style="box-sizing:border-box;margin:16px auto 24px;text-align:center;">
+  <img src="https://mmbiz.qpic.cn/mmbiz_gif/aOOh9W487MQ9Mr7zUUp0lNJzvVsX7L7QicCiaicsxmxYDE2JVj7WVHeFF09w7rLBMibia3xpSJxpIbVoTYUUQzmbRPQ/640?wx_fmt=gif" data-src="https://mmbiz.qpic.cn/mmbiz_gif/aOOh9W487MQ9Mr7zUUp0lNJzvVsX7L7QicCiaicsxmxYDE2JVj7WVHeFF09w7rLBMibia3xpSJxpIbVoTYUUQzmbRPQ/640?wx_fmt=gif" alt="中南民族大学官方微信" style="display:block;width:100%;max-width:540px;height:auto;margin:0 auto;border-radius:4px;" />
+</section>
 ```
