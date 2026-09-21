@@ -266,13 +266,18 @@
   💡 <strong>温馨提示：</strong>请各位同学严格在规定时间内登录教务系统完成选课。
 </div>
 
-<!-- 5. 融媒体中心官方三审三校落款与年份印记 -->
-<section style="box-sizing:border-box;margin:28px 20px 0;padding:22px 0 12px;border-top:1px solid #eeeeee;color:#7a7a7a;font-size:13px;line-height:1.9;text-align:center;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
-  <p style="margin:0;">文字｜中南民族大学融媒体中心学生记者团</p>
-  <p style="margin:0;">摄影｜党委宣传部融媒体影像工作室</p>
-  <p style="margin:0;">排版｜融媒体中心新媒体排版团队</p>
-  <p style="margin:0;">审核｜党委宣传部融媒体中心</p>
-  <p style="text-align:center;line-height:2;letter-spacing:2px;margin:12px auto 0;"><span style="color:#bfbfbf;font-size:14px;">-scmu 1951-</span></p>
+<!-- 5. 融媒体中心官方三审三校实名落款与年份印记 (2026 年 219 篇官方推文实证规范) -->
+<section data-component="proofreading-credits" style="box-sizing:border-box;margin:28px auto 0;text-align:center;font-family:微软雅黑, 'Microsoft YaHei', sans-serif;">
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">中南民族大学</span></p>
+  <p style="text-align:center;line-height:2em;margin:0;"><span style="color:#bfbfbf;font-size:14px;"><br /></span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">图片来源 | 党委宣传部 陈瑞德</span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">文字来源 | 党委宣传部 董亚莹</span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">编辑排版 | 董亚莹</span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">责任编辑 | 刘虹</span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">审核 丨 贺展</span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">投稿邮箱 | weixinminda@163.com</span></p>
+  <p style="text-align:center;line-height:2em;margin:0;"><span style="color:#bfbfbf;font-size:14px;"><br /></span></p>
+  <p style="text-align:center;line-height:2em;letter-spacing:2px;margin:0;"><span style="color:#bfbfbf;font-size:14px;">-scmu 1951-</span></p>
 </section>
 
 <!-- 6. 官方固定结尾动图 (1000×612 铸牢信封微小微 GIF) -->
